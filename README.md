@@ -51,10 +51,10 @@ if (result == -1):
 else:
     print(array)
     print("Element found at index: ",result)
-    ```
+    
 
 ii)	# Find the element in a list using Binary Search(Iterative Method).
-```
+
 Program to find the element in a list using Binary Search(Iterative Method)
 
 Developed by:M.Pavithra
@@ -80,10 +80,10 @@ if (result == -1):
 else:
     print(array)
     print("Element found at index: ",result)
-```
+
 
 iii)	# Find the element in a list using Binary Search (recursive Method).
-```
+
 Program to find the element in a list using Binary Search (recursive Method).
 
 Developed by: M.Pavithra
@@ -111,15 +111,16 @@ else:
     print(arr)
     print("Element found at index: ",result)
 ```
-## Sample Input and Output
+
+## Sample Input and Output:
 
 ![](./linear.png)
 
 ![](./binary.png)
 
 ![](./recur.png)
-```
 
-## Result
+
+## Result:
 
 Thus the linear search and binary search algorithm is implemented using python programming.
